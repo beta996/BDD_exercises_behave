@@ -15,9 +15,9 @@ Feature: checking if the url is the same as the one inputted
 
 
   Scenario Outline: my test
-    Given I go to "<website>"
-    Then current url should be "<expected_url>"
+    Given I go to <website>
+    Then current url should be <expected>
     Examples:
-      | website | expected_url
-      | https://www.selenium.dev | https://www.selenium.dev
-      | https://www.selenium.dev | https://www.selenium.dev
+      | website | expected |
+      | https://www.selenium.dev | https://www.selenium.dev |
+      | https://www.selenium.dev | https://www.selenium.dev |
