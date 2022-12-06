@@ -556,3 +556,121 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
 DevTools listening on ws://127.0.0.1:51737/devtools/browser/e3db2dfe-f0f0-490f-809a-96a0eeccec34
 1670314410940	Marionette	INFO	Stopped listening on port 51749
+1670314709156	geckodriver	INFO	Listening on 127.0.0.1:51870
+1670314712219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_107.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "51871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileX4cKGb"
+1670314713835	Marionette	INFO	Marionette enabled
+1670314713842	Marionette	INFO	Listening on port 51881
+Read port: 51881
+WebDriver BiDi listening on ws://127.0.0.1:51871
+1670314713973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileX4cKGb\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:51871/devtools/browser/b78ecdcf-8f1b-44ed-ae8c-c05d06d171d5
+1670314899540	geckodriver	INFO	Listening on 127.0.0.1:51976
+1670314902590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_107.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "51977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofile4E6npe"
+1670314903865	Marionette	INFO	Marionette enabled
+1670314903874	Marionette	INFO	Listening on port 51987
+Read port: 51987
+WebDriver BiDi listening on ws://127.0.0.1:51977
+1670314904025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofile4E6npe\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:51977/devtools/browser/2f778dae-ebb7-40be-be1e-ec124eb7a5ff
+1670314908024	geckodriver	INFO	Listening on 127.0.0.1:52013
+1670314911073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_107.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "52014" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileDlnmPP"
+1670314912228	Marionette	INFO	Marionette enabled
+1670314912235	Marionette	INFO	Listening on port 52024
+Read port: 52024
+WebDriver BiDi listening on ws://127.0.0.1:52014
+1670314912391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileDlnmPP\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:52014/devtools/browser/abbdcdbd-15d3-4599-9fac-88426638d6bb
+1670316192499	geckodriver	INFO	Listening on 127.0.0.1:52302
+1670316195569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_107.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "52303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofile6cTESC"
+1670316196836	Marionette	INFO	Marionette enabled
+1670316196842	Marionette	INFO	Listening on port 52313
+WebDriver BiDi listening on ws://127.0.0.1:52303
+Read port: 52313
+1670316197070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofile6cTESC\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:52303/devtools/browser/5b986b92-2a85-415e-ad1f-db2d3522cb24
+1670316199986	Marionette	INFO	Stopped listening on port 52313
+1670316699255	geckodriver	INFO	Listening on 127.0.0.1:52433
+1670316702308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_107.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "52434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofile9VYJ8N"
+1670316703947	Marionette	INFO	Marionette enabled
+1670316703953	Marionette	INFO	Listening on port 52445
+Read port: 52445
+WebDriver BiDi listening on ws://127.0.0.1:52434
+1670316704091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofile9VYJ8N\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:52434/devtools/browser/e053cb65-02f0-4ed8-b325-493a5945893a
+1670316707288	Marionette	INFO	Stopped listening on port 52445
+[Parent 17588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670316716236	geckodriver	INFO	Listening on 127.0.0.1:52490
+1670316719311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_107.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "52491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileVcyoXQ"
+1670316720496	Marionette	INFO	Marionette enabled
+1670316720502	Marionette	INFO	Listening on port 52501
+Read port: 52501
+WebDriver BiDi listening on ws://127.0.0.1:52491
+1670316720677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileVcyoXQ\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:52491/devtools/browser/d5b95471-d2e2-4d50-b48b-ade93f340ea7
+1670316723696	Marionette	INFO	Stopped listening on port 52501
+1670316728346	geckodriver	INFO	Listening on 127.0.0.1:52546
+1670316731409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_107.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "52547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileRdaSkn"
+1670316732600	Marionette	INFO	Marionette enabled
+1670316732606	Marionette	INFO	Listening on port 52557
+Read port: 52557
+WebDriver BiDi listening on ws://127.0.0.1:52547
+1670316732739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileRdaSkn\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:52547/devtools/browser/b201ae5d-3849-47c9-ad86-2bafbfc9c141
+1670317364700	Marionette	INFO	Stopped listening on port 52557
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+bvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "52587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileniMpJc"
+1670316745110	Marionette	INFO	Marionette enabled
+1670316745117	Marionette	INFO	Listening on port 52597
+WebDriver BiDi listening on ws://127.0.0.1:52587
+Read port: 52597
+1670316745267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileniMpJc\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:52587/devtools/browser/57b226f3-9f08-46c6-ac2c-c8502042a73d
+1670317363567	Marionette	INFO	Stopped listening on port 52597
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+bvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "52651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofile2wbTyj"
+1670316896885	Marionette	INFO	Marionette enabled
+1670316896892	Marionette	INFO	Listening on port 52661
+Read port: 52661
+WebDriver BiDi listening on ws://127.0.0.1:52651
+1670316897028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofile2wbTyj\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:52651/devtools/browser/8253ded5-9cb3-446f-aced-df1349aa331f
+1670316899802	Marionette	INFO	Stopped listening on port 52661
+1670316943031	geckodriver	INFO	Listening on 127.0.0.1:52711
+1670316946088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_107.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "52712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileHoXiuV"
+1670316947284	Marionette	INFO	Marionette enabled
+1670316947290	Marionette	INFO	Listening on port 52722
+Read port: 52722
+WebDriver BiDi listening on ws://127.0.0.1:52712
+1670316947419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileHoXiuV\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:52712/devtools/browser/eafb13f2-75c5-4298-8a4d-554ec25fdabd
+1670316990423	geckodriver	INFO	Listening on 127.0.0.1:52782
+1670316993481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_107.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "52783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofilePm6fTD"
+1670316994675	Marionette	INFO	Marionette enabled
+1670316994681	Marionette	INFO	Listening on port 52794
+Read port: 52794
+WebDriver BiDi listening on ws://127.0.0.1:52783
+1670316994815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofilePm6fTD\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:52783/devtools/browser/4ec9ebce-8f58-49f4-a8af-231ac20d4311
+1670316997481	Marionette	INFO	Stopped listening on port 52794
