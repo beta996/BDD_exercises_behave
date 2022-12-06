@@ -3,11 +3,13 @@ Feature: checking if the url is the same as the one inputted
 
 
   # Test to check whether selenium driver returns a correct url
+  @tag1
   Scenario: The selenium home page should have correct url
     Given I go to https://www.selenium.dev
     Then current url should be https://www.selenium.dev
 
     # Test to check whether selenium driver returns a correct url
+  @tag2
   Scenario: The selenium page should have a 'main navbar' div and it should be visible
     Given I go to https://www.selenium.dev
     Then main navigation bar should be existing
