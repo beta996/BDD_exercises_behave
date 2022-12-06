@@ -1,0 +1,42 @@
+1670088384883	geckodriver	INFO	Listening on 127.0.0.1:54223
+1670088743909	geckodriver	INFO	Listening on 127.0.0.1:54482
+1670088768827	geckodriver	INFO	Listening on 127.0.0.1:54529
+1670089180497	geckodriver	INFO	Listening on 127.0.0.1:54779
+1670089238860	geckodriver	INFO	Listening on 127.0.0.1:54804
+1670089292706	geckodriver	INFO	Listening on 127.0.0.1:54856
+1670089401263	geckodriver	INFO	Listening on 127.0.0.1:54956
+1670089404343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_107.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "54957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofilexpvKFQ"
+1670089407591	Marionette	INFO	Marionette enabled
+1670089407598	Marionette	INFO	Listening on port 54973
+Read port: 54973
+WebDriver BiDi listening on ws://127.0.0.1:54957
+1670089407741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofilexpvKFQ\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:54957/devtools/browser/0b3ff542-510c-4e16-b9f8-de9993170c22
+1670089917828	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1670092137108	Marionette	INFO	Stopped listening on port 54973
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+mote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileLvp72U"
+1670089485261	Marionette	INFO	Marionette enabled
+1670089485267	Marionette	INFO	Listening on port 55039
+Read port: 55039
+WebDriver BiDi listening on ws://127.0.0.1:55028
+1670089485403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofileLvp72U\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:55028/devtools/browser/49b31989-4839-4c74-8d03-48e56cb67aea
+1670089504300	Marionette	INFO	Stopped listening on port 55039
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670092676377	geckodriver	INFO	Listening on 127.0.0.1:57007
+1670092679423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_107.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe" "--marionette" "--remote-debugging-port" "57008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofile3JRZo9"
+1670092680882	Marionette	INFO	Marionette enabled
+1670092680888	Marionette	INFO	Listening on port 57019
+Read port: 57019
+WebDriver BiDi listening on ws://127.0.0.1:57008
+1670092681018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BJACKO~1\\AppData\\Local\\Temp\\rust_mozprofile3JRZo9\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/browser.js, line 1717: TypeError: TelemetryEnvironment.currentEnvironment.system.os is undefined
+DevTools listening on ws://127.0.0.1:57008/devtools/browser/6ad8e51f-4773-4a0d-97c6-eae377bec9fe
+1670092692564	Marionette	INFO	Stopped listening on port 57019
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
