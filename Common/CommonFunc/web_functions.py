@@ -26,6 +26,20 @@ def get_current_url(driver):
     return str(driver.current_url)
 
 
-def find_element(context, element):
-    element_found = context.driver.find_element(By.ID, element)
+def find_element(context, element, locator):
+    if locator.lower() == 'id':
+        element_found = context.driver.find_element(By.ID, element)
+    elif locator.lower() == 'name':
+        element_found = context.driver.find_element(By.NAME, element)
+    else:
+        raise Exception('Locator not known!')
     return element_found
+
+def input_text(context, element, text):
+    element.send_keys(text)
+
+def click_element(context, element):
+    element.click()
+
+if __name__ == '__main__':
+    go_to('https://www.selenium.dev')
